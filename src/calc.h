@@ -4,7 +4,7 @@
 *   Copyright (c) @2018 Ö±Í¨¹è¹È
 *
 * @brief  Calc interface
-*
+* First commit done!
 *******************************************************************************/
 
 #ifndef __CALC_H_
